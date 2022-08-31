@@ -17,3 +17,12 @@
 .row-1 {
     padding: 10% 0 20% 0;
 }
+.row3-col1 {
+    background-image: url("/images/Placeholder1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.col-5 {
+    padding-bottom: 5%;
+
+}

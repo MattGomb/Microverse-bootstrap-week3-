@@ -5,3 +5,11 @@
 .navbar-name, .nav-link {
     color: #ffffff;
 }
+
+.row-1 {
+    background-image: url("/images/Illustration-header.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    color: white;
+    height:auto;
+}

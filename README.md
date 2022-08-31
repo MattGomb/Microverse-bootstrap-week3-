@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Microverse bootstrap exercise
 
-> Description the project.
+> Project exercise of week 3 of the Microverse program.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, JavaScript, CSS
+- Bootstrap
 
 ## Live Demo (if available)
 
@@ -42,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@MattGomb](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 

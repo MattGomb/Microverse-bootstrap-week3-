@@ -23,5 +23,38 @@
 }
 
 .btn-primary {
-    margin-top: 12px;
+    height: 30px;
+    width: 11%;
+    background-color: grey;
+    color: #fff;
+    border-color: grey;
+    
+}
+.btn {
+    text-align: center;
+}
+.row row-4 {
+    margin-bottom: 20px;
+}
+.maintxt {
+    background-image: url(images/background.png);
+    background-size: cover;
+    position: absolute;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    margin-left: 2px;
+    
+}
+.txt {
+    font-size: 20px;
+    width: 30%;
+    color: #fff;
+}
+.mainpara {
+    font-size: 11px;
+    width: 38%;
+    color: #ffffff;
+}
+.justify-content-center {
+    margin-bottom: 20px;
 }

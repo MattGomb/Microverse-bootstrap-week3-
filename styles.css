@@ -1,77 +1,82 @@
 .navbar {
-    background-color: #3E3C3C;
-}
-
-.navbar-name, .nav-link {
-    color: #ffffff;
+  background-color: #3e3c3c;
+  color: #fff;
 }
 
 .row-1 {
-    background-image: url("/images/Illustration-header.png");
-    background-color: black;
-    background-repeat: no-repeat;
-    background-position: right;
-    color: white;
-}
-
-.row-1 {
-    padding: 10% 0 20% 0;
+  background-image: url("/images/Illustration-header.png");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  padding: 10% 0 20% 0;
 }
 
 .col-5 {
-    padding-bottom: 5%;
+  padding-bottom: 5%;
 }
+
 .row-6 {
-    background-color: black;
+  background-color: black;
 }
+
 .btn-primary {
-    height: 30px;
-    width: 11%;
-    background-color: grey;
-    color: #fff;
-    border-color: grey;
-    
+  height: 30px;
+  width: 11%;
+  background-color: grey;
+  color: #fff;
+  border-color: grey;
 }
+
 .btn {
-    text-align: center;
+  text-align: center;
 }
-.row row-4 {
-    margin-bottom: 20px;
+
+.row-4 {
+  margin-bottom: 20px;
 }
+
 .maintxt {
-    background-image: url(images/background.png);
-    background-size: cover;
-    position: absolute;
-    margin-top: 80px;
-    margin-bottom: 10px;
-    margin-left: 2px;
-    
+  background-image: url(images/background.png);
+  background-size: cover;
+  position: absolute;
+  margin-top: 80px;
+  margin-bottom: 10px;
+  margin-left: 2px;
 }
+
 .txt {
-    font-size: 20px;
-    width: 30%;
-    color: #fff;
+  font-size: 32px;
+  width: 30%;
+  color: #fff;
 }
+
 .mainpara {
-    font-size: 11px;
-    width: 50%;
-    color: #ffffff;
+  font-size: 17px;
+  width: 33%;
+  color: #fff;
+  padding-right: auto;
+  margin-right: auto;
 }
+
 .justify-content-center {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
+
 .about-text {
-    width: 70px;
-    color: #ffffff;
+  width: 70px;
+  color: #fff;
 }
+
 ul li {
-    /* position: relative;
+  /* position: relative;
     display: block; */
-    padding: 0.5rem 1rem;
-    color: white;
-    list-style: none;
-    border: 1pxsolidrgba(0,0,0,.125);
+  padding: 0.5rem 1rem;
+  color: white;
+  list-style: none;
+  border: 1px solid rgba(0, 0, 0, 0.125);
 }
+
 .col {
-    color: #ffffff;
+  color: #fff;
 }

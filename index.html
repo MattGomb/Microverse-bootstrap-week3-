@@ -39,9 +39,8 @@
           </div>
         </div>
         <div class="row row-2 justify-content-center">
-          <div class="col-10">
-            MY RECENT WORKS
-          </div> 
+            <h2 class="col-3 my-5">My recent works</h2>
+            <hr class="col-7 my-5 works-divider">
         </div>
         <div class="row row-3 justify-content-center">
             <div class="col-6 row3-col1">
@@ -128,46 +127,68 @@
         </div>
         <div class="row row-6">
             <span class="col-1"></span>
-            <div class="col-5">
-                <h1 class="display-2">ABOUT ME</h1>
+            <div class="col-4 col-aboutme">
+                <h1 class="display-2 h-aboutme">ABOUT ME</h1>
                 <p class="about-text">Hello I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! 
-                    If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
+                    If you like what you see and have a project you need coded, don’t hestiate to contact me.
+                </p>
+                <button type="button" class="btn btn-outline-primary btn-resume">Get My Resume</button>
             </div>
         </div>
-        <div class="row row-7">
-            <div class="col">
+        <hr class="my-1">
+        <div class="row row-7 bg-dark">
+            <div class="col col-abt">
               <h2>Languages</h2>
                 <ul>
-                  <li>JavaScript</li>
-                  <li>Html</li>
-                  <li>Css</li>
+                  <li class="border-0">JavaScript</li>
+                  <li class="border-0">Html</li>
+                  <li class="border-0">Css</li>
                 </ul>
             </div>
-            <div class="col">
+            <div class="col col-abt">
               <h2>frameworks</h2>
                 <ul>
-                    <li>Bootstrap</li>
-                    <li>Ruby on Rails</li>
-                    <li>RSPec</li>
-                    <li>CapyBara</li>
-                    <li>Selenium</li>
+                    <li class="border-0">Bootstrap</li>
+                    <li class="border-0">Ruby on Rails</li>
+                    <li class="border-0">RSPec</li>
+                    <li class="border-0">CapyBara</li>
+                    <li class="border-0">Selenium</li>
                 </ul>
             </div>
-            <div class="col">
+            <div class="col col-abt">
               <h2>skills</h2>
                 <ul>
-                    <li>Codekit</li>
-                    <li>Github</li>
-                    <li>Codepen</li>
-                    <li>Gitlab</li>
-                    <li>Terminal</li>
+                    <li class="border-0">Codekit</li>
+                    <li class="border-0">Github</li>
+                    <li class="border-0">Codepen</li>
+                    <li class="border-0">Gitlab</li>
+                    <li class="border-0">Terminal</li>
               </ul>
             </div>
         </div>
-        <div class="row row-8">
-          <div class="col">PARAGRAPH</div>
-          <div class="col">FORMS</div>
+        <div class="row row-8 bg-white">
+            <span class="col-1"></span>
+          <div class="col-4 text-dark display-6"><strong>I'm always interested in hearing about new projects, so if you'd like to chat please get in touch.</strong></div>
+          <div class="col-6 text-dark contactme-form">
+            <div class="col-6 p-1">
+                <label for="exampleFormControlInput1" class="form-label" hidden>First name</label>
+                <input type="text" class="form-control d-inline" id="exampleFormControlInput1" placeholder="First name">
+                <label for="exampleFormControlInput2" class="form-label" hidden>Last name</label>
+                <input type="text" class="form-control d-inline" id="exampleFormControlInput2" placeholder="Last name">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlInput3" class="form-label" hidden>Email address</label>
+                <input type="email" class="form-control" id="exampleFormControlInput3" placeholder="name@example.com">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label" hidden>Example textarea</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Leave your message here"></textarea>
+            </div>
+            <button type="submit" class="btn btn-outline-primary">Get in Touch</button>
+          </div>
         </div>
+        <hr class="my-1">
+        
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>

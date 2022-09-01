@@ -84,6 +84,22 @@ ul li {
   color: #fff;
 }
 
-.img-fluid {
-    z-index: -999;
+.col-aboutme {
+    margin-bottom: 20%;
+}
+
+.h-aboutme {
+    margin-top: 30%;
+}
+
+.col-abt {
+    border-style: none;
+}
+
+.row-8 {
+    padding-top: 8%;
+}
+
+.contactme-form {
+    margin-bottom: 10%;
 }

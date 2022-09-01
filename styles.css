@@ -21,7 +21,9 @@
 .col-5 {
     padding-bottom: 5%;
 }
-
+.row-6 {
+    background-color: black;
+}
 .btn-primary {
     height: 30px;
     width: 11%;
@@ -52,9 +54,24 @@
 }
 .mainpara {
     font-size: 11px;
-    width: 38%;
+    width: 50%;
     color: #ffffff;
 }
 .justify-content-center {
     margin-bottom: 20px;
+}
+.about-text {
+    width: 70px;
+    color: #ffffff;
+}
+ul li {
+    /* position: relative;
+    display: block; */
+    padding: 0.5rem 1rem;
+    color: white;
+    list-style: none;
+    border: 1pxsolidrgba(0,0,0,.125);
+}
+.col {
+    color: #ffffff;
 }

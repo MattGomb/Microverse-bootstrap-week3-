@@ -1,0 +1,105 @@
+.navbar {
+  background-color: #3e3c3c;
+  color: #fff;
+}
+
+.row-1 {
+  background-image: url("/images/Illustration-header.png");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  padding: 10% 0 20% 0;
+}
+
+.row-6 {
+    background-image: url("/images/about-me.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.col-5 {
+  padding-bottom: 5%;
+}
+
+.row-6 {
+  background-color: black;
+}
+
+.btn-primary {
+  height: 30px;
+  width: 11%;
+  background-color: grey;
+  color: #fff;
+  border-color: grey;
+}
+
+.btn {
+  text-align: center;
+}
+
+.row-4 {
+  margin-bottom: 20px;
+}
+
+.maintxt {
+  position: absolute;
+  margin-top: 10%;
+  width: 23%;
+}
+
+.btn {
+    width: fit-content;
+}
+
+.txt {
+  font-size: 32px;
+  color: #fff;
+}
+
+.mainpara {
+  font-size: 17px;
+  color: #fff;
+}
+
+.justify-content-center {
+  margin-bottom: 20px;
+}
+
+.about-text {
+  color: #fff;
+}
+
+ul li {
+  /* position: relative;
+    display: block; */
+  padding: 0.5rem 1rem;
+  color: white;
+  list-style: none;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.col {
+  color: #fff;
+}
+
+.col-aboutme {
+    margin-bottom: 20%;
+}
+
+.h-aboutme {
+    margin-top: 30%;
+}
+
+.col-abt {
+    border-style: none;
+}
+
+.row-8 {
+    padding-top: 8%;
+}
+
+.contactme-form {
+    margin-bottom: 10%;
+}

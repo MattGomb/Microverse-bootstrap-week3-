@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Kelvin Ben**
 
-- GitHub: [@Kevo-hacker] (https://github.com/Kevo-hacker)
+- GitHub: [@Kelvin-Ben] (https://github.com/Kelvin-Ben)
 - Twitter: [@kevoyout144] (https://twitter.com/kevoyout144)
 - LinkedIn: [Kelvin Ben] (https://www.linkedin.com/in/kelvin-ben-323043173/)
 
